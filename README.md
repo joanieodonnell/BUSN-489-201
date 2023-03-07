@@ -1,2 +1,2 @@
-# BUSN-489-201
+# tic-tac-toe
 Test Repository 
